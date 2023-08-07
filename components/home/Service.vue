@@ -49,7 +49,7 @@
                 A la carte
               </h3>
               <p class="text-center px-4 pt-3 text-gray-600">
-                "Indulge in culinary freedom with our A la carte dining
+                Indulge in culinary freedom with our A la carte dining
                 experience, where you handpick a personalized meal from our
                 exquisite menu, creating a dining journey as unique as your
                 taste

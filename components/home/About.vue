@@ -26,9 +26,9 @@
             <ul
               class="list-disc px-4 text-lg mt-4 tracking-tighter text-justify font-mont"
             >
-              <li>Mouthwatering buff/chicken choila</li>
-              <li>Sweet & Spicy korean chicken</li>
-              <li>Flavorful paneer butter masala and Naan</li>
+              <li>Mouthwatering Buff/Chicken Choila</li>
+              <li>Sweet & Spicy Korean Chicken</li>
+              <li>Flavorful Paneer Butter Masala and Naan</li>
             </ul>
           </div>
           <div class="mt-8">
@@ -38,7 +38,7 @@
             >
               <li>Succulent Nargis kebab (Kofta)</li>
               <li>Nepali Style Chicken Barbecue</li>
-              <li>Juciy Steamed Mo:Mo</li>
+              <li>Authentic Nepali Mo:Mo(available in different flavors)</li>
             </ul>
           </div>
         </div>
