@@ -155,7 +155,7 @@
   <h3 class="text-xs text-center py-4 px-10">
     Copyright @Eatnsip | Designed and Developed by
     <a href="" class="text-yellow-500" target="_blank" rel="noopener noreferrer"
-      >Samragi</a
+      >SKUD</a
     >
   </h3>
 </template>
