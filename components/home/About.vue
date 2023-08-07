@@ -26,9 +26,9 @@
             <ul
               class="list-disc px-4 text-lg mt-4 tracking-tighter text-justify font-mont"
             >
-              <li>Mouthwatering Bruschettas</li>
-              <li>Crispy Calamari Rings</li>
-              <li>Flavorful Hummus Platter</li>
+              <li>Mouthwatering buff/chicken choila</li>
+              <li>Sweet & Spicy korean chicken</li>
+              <li>Flavorful paneer butter masala and Naan</li>
             </ul>
           </div>
           <div class="mt-8">
@@ -38,7 +38,7 @@
             >
               <li>Succulent Nargis kebab (Kofta)</li>
               <li>Nepali Style Chicken Barbecue</li>
-              <li>Steamed Nepali Mo:Mo</li>
+              <li>Juciy Steamed Mo:Mo</li>
             </ul>
           </div>
         </div>
