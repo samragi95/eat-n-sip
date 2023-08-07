@@ -1,0 +1,22 @@
+[
+    {
+        "images": "members/Chairperson.jpg",
+        "name": "Dr Praveen Mishra",
+        "Designation": "Chairperson"
+    },
+    {
+        "images": "members/treasurer.jpg",
+        "name": "Dr Binjwala Shrestha",
+        "Designation": "Treasurer"
+    },
+    {
+        "images": "members/Vice_Secretary.jpg",
+        "name": "Mr. Ram Kumar Khanal",
+        "Designation": "Vice Secretary "
+    },
+    {
+        "images": "members/admin.jpg",
+        "name": "Mr. Sudeep Subedi",
+        "Designation": "Administrator Officer "
+    }
+]
