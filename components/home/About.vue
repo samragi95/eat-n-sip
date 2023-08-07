@@ -36,9 +36,9 @@
             <ul
               class="list-disc px-4 text-lg mt-4 tracking-tighter text-justify font-mont"
             >
-              <li>Succulent Steak with Truffle Sauce</li>
-              <li>Pan-Seared Salmon with Lemon Butter</li>
-              <li>Vegetarian Mushroom Risotto</li>
+              <li>Succulent Nargis kebab (Kofta)</li>
+              <li>Nepali Style Chicken Barbecue</li>
+              <li>Steamed Nepali Mo:Mo</li>
             </ul>
           </div>
         </div>

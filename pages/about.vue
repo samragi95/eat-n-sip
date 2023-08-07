@@ -86,7 +86,7 @@
               <span class="text-gray-600">Email:</span>
               <span class="ml-2 font-semibold"
                 ><a
-                  href="mailto:nabingiri.eatnsip@gmail.com"
+                  href="mailtonabingiri.eatnsips@gmail.com"
                   class="text-blue-500"
                   >info@eatnsip.com</a
                 ></span

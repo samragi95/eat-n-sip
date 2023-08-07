@@ -61,7 +61,7 @@
               </svg>
               <p class="font-pop text-white text-sm">
                 <a
-                  href="mailto:nabingiri@gmail.com"
+                  href="mailto:nabingiri@eatnsips.com"
                   class="hover:text-yellow-500"
                   >nabingiri.eatnsip@gmail.com</a
                 >
@@ -112,7 +112,7 @@
               </a>
             </li>
             <li class="outline rounded-full py-2 px-2">
-              <a href="mailto:nabingiri.eatnsip@gmail.com">
+              <a href="mailtonabingiri.eatnsips@gmail.com">
                 <svg
                   class="h-4 w-4"
                   xmlns="http://www.w3.org/2000/svg"
