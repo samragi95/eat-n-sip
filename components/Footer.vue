@@ -63,7 +63,7 @@
                 <a
                   href="mailto:nabingiri@eatnsips.com"
                   class="hover:text-yellow-500"
-                  >nabingiri.eatnsip@gmail.com</a
+                  >nabingiri@eatnsips.com</a
                 >
               </p>
             </li>

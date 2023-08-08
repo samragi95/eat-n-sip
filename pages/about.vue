@@ -77,8 +77,8 @@
             <div class="flex items-center">
               <span class="text-gray-600">Reservation:</span>
               <span class="ml-2 font-semibold"
-                ><a href="tel:123-456-7890" class="text-blue-500"
-                  >123-456-7890</a
+                ><a href="tel:+977 9860-897062" class="text-blue-500"
+                  >+977 9860-897062</a
                 ></span
               >
             </div>
@@ -88,7 +88,7 @@
                 ><a
                   href="mailtonabingiri.eatnsips@gmail.com"
                   class="text-blue-500"
-                  >info@eatnsip.com</a
+                  >nabingiri@eatnsips.com</a
                 ></span
               >
             </div>
