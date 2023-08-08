@@ -112,7 +112,7 @@
               </a>
             </li>
             <li class="outline rounded-full py-2 px-2">
-              <a href="mailto:nabingiri.eatnsips@gmail.com">
+              <a href="mailto:nabingiri@eatnsips.com">
                 <svg
                   class="h-4 w-4"
                   xmlns="http://www.w3.org/2000/svg"
